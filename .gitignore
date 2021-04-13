@@ -1,8 +1,9 @@
 .DS_Store
 
 build
-lib-dist
 node_modules
 
 npm-debug.log
 README.md
+
+.idea
